@@ -1,6 +1,6 @@
 cask "encore" do
   version "1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "f66d2b5522e0f9ca132339612642cc456ecb8dcb2e6c5cc8e615735877f1ecfc"
 
   url "https://updates.abdeen.industries/encore/Encore-#{version}.dmg"
   name "Encore"
