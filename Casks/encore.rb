@@ -18,13 +18,13 @@ cask "encore" do
 
   app "Encore.app"
 
-  uninstall quit: "dev.abdeen.Encore"
+  uninstall quit: "dev.abdeen.encore"
 
   zap trash: [
     "~/Library/Application Support/Encore",
-    "~/Library/Caches/dev.abdeen.Encore",
-    "~/Library/HTTPStorages/dev.abdeen.Encore",
-    "~/Library/Preferences/dev.abdeen.Encore.plist",
-    "~/Library/Saved Application State/dev.abdeen.Encore.savedState",
+    "~/Library/Caches/dev.abdeen.encore",
+    "~/Library/HTTPStorages/dev.abdeen.encore",
+    "~/Library/Preferences/dev.abdeen.encore.plist",
+    "~/Library/Saved Application State/dev.abdeen.encore.savedState",
   ]
 end
