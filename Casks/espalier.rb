@@ -1,6 +1,6 @@
 cask "espalier" do
-  version "1.7.2"
-  sha256 "fb4baf26a3882665fc21d4b5c4e124b0cd9cb796c5347bdb98d6bf3c989185a4"
+  version "1.7.3"
+  sha256 "d5773032992c80adbfd9b445cc9d236c90ea7cf947f30c8fcaa38630d9c3e2d4"
 
   url "https://updates.abdeen.industries/espalier/Espalier-#{version}.dmg"
   name "Espalier"
